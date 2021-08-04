@@ -5,4 +5,4 @@ A modified client for multiaccounting on osu!
 Scroll down in Options until you see Multiaccount Mode (Device Spoofer). Turn that on, put your generated device and then restart. Simple as that!
 
 # Having problems?
-You can make GitHub issues OR contact me directly in my discord server here discord.gg/??Sez?????
+Try to use no AHC version<br>Alternatively, you can make GitHub issues OR contact me directly in my discord server here discord.gg/??Sez?????
