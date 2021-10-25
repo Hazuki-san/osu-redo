@@ -1,5 +1,5 @@
 # PLEASE READ
-Recent upadte by peppy, b20210810cuttingedge has the new ANTICHEAT update. So this won't be updated until I'm sure I can think of the other way...
+Recent update by peppy, b20210810cuttingedge has the new ANTICHEAT update. So this won't be updated until I'm sure I can think of the other way...
 
 # osu!Redo
 A modified client for multiaccounting on osu!
